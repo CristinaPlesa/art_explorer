@@ -1,5 +1,5 @@
 {
-  "name": "template_wp_eslint_jest",
+  "name": "art_explorer",
   "version": "1.0.0",
   "description": "---",
   "main": "src/main.js",
@@ -7,13 +7,13 @@
     "test": "jest --coverage",
     "build": "webpack --config webpack.config.js",
     "lint": "eslint src/*.js",
-    "start:dev": "npm run build & webpack serve --mode=development"
+    "start:dev": "npm run build: webpack serve --mode=development"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Usarneme/template_wp_eslint_jest"
   },
-  "author": "Usarneme",
+  "author": "Cristina Plesa",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Usarneme/template_wp_eslint_jest/issues"
