@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Usarneme/template_wp_eslint_jest"
+    "url": "git+https://github.com/CristinaPlesa/art_explorer"
   },
   "author": "Cristina Plesa",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Usarneme/template_wp_eslint_jest/issues"
+    "url": "https://github.com/CristinaPlesa/art_explorer"
   },
-  "homepage": "https://github.com/Usarneme/template_wp_eslint_jest#readme",
+  "homepage": "https://github.com/CristinaPlesa/art_explorer",
   "devDependencies": {
     "@babel/core": "^7.13.14",
     "@babel/plugin-transform-runtime": "^7.13.15",
